@@ -300,3 +300,8 @@ section {
   font-size: 2rem;
   text-transform: uppercase;
 }
+
+.level_x{
+  font-size: 0px;
+  content: "958ma";
+}
